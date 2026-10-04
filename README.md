@@ -7,7 +7,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F5C2E7&center=true&vcenter=true&width=500&lines=Computer+Science+Student+%40+UPI;Full-Stack+Web+Developer;Linux+%26+Open+Source+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F5C2E7&center=true&vcenter=true&width=500&lines=Computer+Science+Student+UPI;Full-Stack+Web+Developer;Linux+Architecture)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,9 +16,8 @@
 ### 🎓 About Me
 
 - 🏫 **Education:** Studying Computer Science at Universitas Pendidikan Indonesia (Class of 2025).
-- 💻 **Tech Stack & Interests:** Web Development, Systems Programming, Algorithm Analysis, & UI/UX Design.
-- 🐧 **Linux Setup:** Customizing Linux environments (Arch, Fedora, Ubuntu) with tiling window managers.
-- 🎨 **Aesthetics:** Big fan of clean interfaces & the **Catppuccin** color scheme.
+- 💻 **Tech Stack & Interests:** Web Development, Systems Programming.
+- 🐧 **Linux Setup:** Customizing Linux environments (Arch, Fedora, Ubuntu).
 
 ---
 
@@ -42,7 +41,6 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
 </p>
 
 #### **Databases & Tools**
@@ -57,15 +55,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **SAPARASA** | Information System & Database Schema for local culinary business | MySQL, Database Design |
-| **J4R-Media** | Web-based video downloader application | Python, JavaScript, Tailwind CSS |
-| **Pathfinding Visualizer** | Interactive pathfinding algorithms (A*, UCS, Minimax) | JavaScript, HTML5 Canvas |
-
----
 
 ### 📊 GitHub Stats
 
